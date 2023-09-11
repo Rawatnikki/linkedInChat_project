@@ -5,6 +5,7 @@ margin:0;
 body{
     display: flex;
     justify-content: center;
+   font-family: Georgia, serif;
 }
 .main{
 
